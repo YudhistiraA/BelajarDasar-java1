@@ -10,7 +10,7 @@ import java.util.Scanner;
  */
 public class c2 {
     public static void main (String[]args){
-        int x;
+        int x;     
         int y;
         Scanner yudhis = new Scanner (System.in);
           System.out.println( " masukan nilai akhir : ");
